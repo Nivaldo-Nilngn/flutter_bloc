@@ -54,6 +54,11 @@ Para adicionar um cliente, dispare um evento assim:
 context.read<ClientBloc>().add(AddClientEvent(client: novoCliente));
 ```
 
+## 🌐 Teste o Projeto
+
+Você pode testar a aplicação Flutter Web online no Netlify: [Testar Flutter BLoC Tutorial](https://clientflutterbloc.netlify.app/)
+
+
 ## 📖 Licença
 
 Este projeto está sob a licença MIT. Sinta-se livre para usá-lo e modificá-lo! 😊
